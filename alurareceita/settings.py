@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'alura_receita',
         'USER' : 'postgres',
         'PASSWORD' : 123456,
-        'HOST' : 'localhost',
+        'HOST' : '.pythonanywhere.com',
         'PORT' : '5433'
     }
 }
